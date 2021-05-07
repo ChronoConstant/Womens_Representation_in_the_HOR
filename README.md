@@ -9,9 +9,10 @@ Changes Made:
 - Included labels on the Y-axis to give a better frame of reference for where the parties sat over the years
 
 Major Takeaways:
-- This Graph begins in 1969 when there were only a handful of female representatives in both partiesand demonstrates that the pace of change up to the early 90's was horrifically slow or non-existant.
+- This Graph begins in 1969 when there were only a handful of female representatives in both parties and demonstrates that the pace of change up to the early 90's was horrifically slow or non-existant.
 - The higher numbers we see now are a relatively recent occurance that didnt begin to gain momentum until around 30 years ago.
 - The steadily increasing gap between the parties is a frightening occurance.
 - 35% of seats in either party isn't close to enough. Women make up more than half the population and you'd expect
  to see their representation match their population in both parties.
+ 
  ![Womenrepinhouse (1)](https://user-images.githubusercontent.com/82072880/117516928-68c5c200-af4f-11eb-9c8c-311f33ec7470.png)
